@@ -1,0 +1,850 @@
+[
+    {
+        "items": [
+          {
+            "original": "Amul Salted Butter",
+            "variations": ["Amul buter", "Amul makhan", "Amul battar", "Amul btr", "Amul maska"]
+          },
+          {
+            "original": "Nandini Curd",
+            "variations": ["Nandini curds", "Nandini dahi", "Nandini mosaru", "Nandini", "Nandini daahi"]
+          },
+          {
+            "original": "Tata Salt",
+            "variations": ["Tata solt", "Tata namak", "Tata uppu", "Tata slt", "Tata namk"]
+          },
+          {
+            "original": "Maggi 2-Minute Noodles",
+            "variations": ["Magi nodles", "Megi", "Maggi nudils", "Maggi 2min", "Meggi noodles"]
+          },
+          {
+            "original": "Fortune Sunlite Refined Sunflower Oil",
+            "variations": ["Fortun oil", "Fortune tel", "Fortune sun flowr", "Fortune refind", "Fortune surajmukhi"]
+          },
+          {
+            "original": "Aashirvaad Shudh Chakki Atta",
+            "variations": ["Ashirvad ata", "Ashirwad atta", "Ashirvad mavu", "Ashirvad", "Ashirvaad gehu"]
+          },
+          {
+            "original": "Brooke Bond Red Label Tea",
+            "variations": ["Red lable", "Red label chai", "Red label tea pudi", "Red label", "Red lebel chaha"]
+          },
+          {
+            "original": "Britannia Good Day Cashew Cookies",
+            "variations": ["Gud day biscuit", "Good day kaju", "Good day bisket", "Good day", "Gud day kaju biskut"]
+          },
+          {
+            "original": "Cadbury Dairy Milk Silk",
+            "variations": ["Dary milk", "Cadbury choklat", "Silk choclate", "Silk", "Cadbury silk choco"]
+          },
+          {
+            "original": "Kissan Fresh Tomato Ketchup",
+            "variations": ["Kissan kechup", "Kissan sos", "Kissan tamato", "Kissan", "Tamatar sauce"]
+          },
+          {
+            "original": "Surf Excel Easy Wash Detergent Powder",
+            "variations": ["Sarf excel", "Surf powder", "Surf excel podi", "Surf", "Sarf exel"]
+          },
+          {
+            "original": "Vim Dishwash Bar",
+            "variations": ["Vim baar", "Vim sabun", "Vim soap", "Vim", "Vim tikia"]
+          },
+          {
+            "original": "Dettol Antiseptic Liquid",
+            "variations": ["Detol", "Dettol dawai", "Detol likwid", "Dettol", "Duttol"]
+          },
+          {
+            "original": "Parle-G Biscuits",
+            "variations": ["Parle g", "Parle g biskut", "Parle g pisket", "Parleg", "Parle ji biscut"]
+          },
+          {
+            "original": "Everest Garam Masala",
+            "variations": ["Everest masala", "Garam masala", "Everest masale", "Everest gm", "Everest garm masala"]
+          },
+          {
+            "original": "Haldiram's Aloo Bhujia",
+            "variations": ["Haldiram aloo bujia", "Haldiram namkeen", "Haldiram bujiya", "Aloo bhujia", "Haldiram alu bhujiya"]
+          },
+          {
+            "original": "Lizol Floor Cleaner",
+            "variations": ["Lyzol", "Lizol pocha", "Laizol", "Lizol", "Lojal"]
+          },
+          {
+            "original": "Colgate Strong Teeth Toothpaste",
+            "variations": ["Colgat", "Colgate manjan", "Colgate pest", "Colgate", "Coalgate"]
+          },
+          {
+            "original": "Horlicks Health Drink",
+            "variations": ["Horliks", "Horlicks powder", "Harliks", "Horlix", "Horlik"]
+          },
+          {
+            "original": "Quaker Oats",
+            "variations": ["Quaker otes", "Quaker daliya", "Ots", "Quaker", "Kweker oats"]
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "original": "Amul Pasteurized Butter",
+            "variations": ["Amul buter", "Makhan", "Amul bater", "Butter 100g", "Amul makkhan"]
+          },
+          {
+            "original": "Amul Cheese Slices",
+            "variations": ["Amul cheez", "Cheese slice", "Chees", "Sandwich cheese", "Amul chiz"]
+          },
+          {
+            "original": "Amul Taaza Toned Milk",
+            "variations": ["Amul taza", "Blue packet milk", "Amul doodh", "Taza milk", "Amul taja"]
+          },
+          {
+            "original": "Amul Masti Dahi",
+            "variations": ["Amul curd", "Masti dahi", "Dhai", "Amul thayir", "Masti dai"]
+          },
+          {
+            "original": "Amul Malai Paneer",
+            "variations": ["Amul panir", "Paneer cube", "Paner", "Malai panir", "Amul pneer"]
+          },
+          {
+            "original": "Amul Ghee",
+            "variations": ["Amul ghi", "Desi ghee", "Ghee 1ltr", "Amul ghir", "Pure ghee"]
+          },
+          {
+            "original": "Amul Mithai Mate",
+            "variations": ["Mithaimate", "Milkmaid amul", "Condensed milk", "Amul mithai", "Meetha doodh"]
+          },
+          {
+            "original": "Nandini GoodLife Toned Milk",
+            "variations": ["Good life milk", "Nandini doodh", "Gudlife", "Nandini good lyf", "Goodlife tetra"]
+          },
+          {
+            "original": "Nandini Curd",
+            "variations": ["Nandini dahi", "Curd packet", "Mosaru", "Nandini thayir", "Perugu"]
+          },
+          {
+            "original": "Nandini Ghee",
+            "variations": ["Nandini ghi", "Pure ghee", "Nandhini ghee", "Nandini tuppa", "Nandini nei"]
+          },
+          {
+            "original": "Milky Mist Paneer",
+            "variations": ["Milky mist panir", "Paneer block", "Milkimist", "Soft paneer", "Milky mist panner"]
+          },
+          {
+            "original": "Milky Mist Greek Yogurt",
+            "variations": ["Greek yogrt", "Fruit dahi", "Milky mist yaghurt", "Greek dahi", "Protein curd"]
+          },
+          {
+            "original": "Mother Dairy Toned Milk",
+            "variations": ["Mother dairy doodh", "Blue milk", "Motherdairy", "Toned milk", "Muder dairy"]
+          },
+          {
+            "original": "Nestle A+ Nourish Milk",
+            "variations": ["Nestle milk", "A+ milk", "Tetra pack milk", "Nestle a plus", "Carton milk"]
+          },
+          {
+            "original": "Yakult Probiotic Drink",
+            "variations": ["Yakut", "Probiotic drink", "Yakult 5 pack", "Health drink", "Yakkult"]
+          },
+          {
+            "original": "Britannia 100% Whole Wheat Bread",
+            "variations": ["Brown bread", "Britania bread", "Atta bread", "Wheat bred", "Britannia aata bread"]
+          },
+          {
+            "original": "Modern White Sandwich Bread",
+            "variations": ["Modern bread", "White bred", "Sandwich bread", "Bread packet", "Whte bread"]
+          },
+          {
+            "original": "Amul Kool Cafe",
+            "variations": ["Amul cool", "Cold coffee", "Kool cafe", "Amul coffee bottle", "Cool coffee"]
+          },
+          {
+            "original": "Cavins Milkshake",
+            "variations": ["Cavin milkshake", "Cavins chocolate", "Milk shake", "Cavin milk", "Cavins bottle"]
+          },
+          {
+            "original": "Epigamia Greek Yogurt",
+            "variations": ["Epigama", "Greek yogurt", "Epigamia cup", "Fruit yogurt", "Epegamia"]
+          },
+          {
+            "original": "Aashirvaad Shudh Chakki Atta",
+            "variations": ["Ashirvad atta", "Gehu ka atta", "Ashirwad ata", "Atta 5kg", "Ashirvaad aatta"]
+          },
+          {
+            "original": "Aashirvaad Multigrain Atta",
+            "variations": ["Multigrain ata", "Ashirvad multi", "Sugar free atta", "Mix atta", "Ashirwad multigrain"]
+          },
+          {
+            "original": "Fortune Sunlite Refined Sunflower Oil",
+            "variations": ["Fortune oil", "Sunflower oil", "Sun light oil", "Fortune tel", "Cooking oil"]
+          },
+          {
+            "original": "Fortune Kachi Ghani Mustard Oil",
+            "variations": ["Mustard oil", "Sarso tel", "Kachi ghani", "Fortune sarso", "Kadva tel"]
+          },
+          {
+            "original": "Fortune Soya Health Oil",
+            "variations": ["Soyabean oil", "Soya oil", "Fortune soya", "Refined oil", "Soyabeen tel"]
+          },
+          {
+            "original": "Saffola Gold Edible Oil",
+            "variations": ["Safola gold", "Heart oil", "Saffola oil", "Cholesterol oil", "Safola glod"]
+          },
+          {
+            "original": "Dhara Refined Vegetable Oil",
+            "variations": ["Dhara oil", "Veg oil", "Dhara tel", "Cooking oil dhara", "Refined oil"]
+          },
+          {
+            "original": "Tata Salt Vacuum Evaporated",
+            "variations": ["Tata namak", "Salt packet", "Tata salt 1kg", "Iodine salt", "Tata saltt"]
+          },
+          {
+            "original": "Tata Salt Lite",
+            "variations": ["Low sodium salt", "Tata lite", "Bp salt", "Light salt", "Tata salt light"]
+          },
+          {
+            "original": "Sendha Namak (Rock Salt)",
+            "variations": ["Rock salt", "Upvas namak", "Sendha namak", "Vrat salt", "Pink salt"]
+          },
+          {
+            "original": "India Gate Basmati Rice Feast",
+            "variations": ["India gate rice", "Basmati chawal", "Feast rice", "Biryani rice", "Indiagate basmati"]
+          },
+          {
+            "original": "Daawat Rozana Basmati Rice",
+            "variations": ["Dawat rice", "Rozana rice", "Daily basmati", "Dawat chawal", "Daawat rozana"]
+          },
+          {
+            "original": "Fortune Mogra Basmati Rice",
+            "variations": ["Mogra rice", "Fortune basmati", "Broken basmati", "Tukda chawal", "Fortune chawal"]
+          },
+          {
+            "original": "Sona Masoori Rice",
+            "variations": ["Sona masuri", "Raw rice", "Sona masoori chawal", "Daily rice", "Sona massori"]
+          },
+          {
+            "original": "Idli Rice",
+            "variations": ["Idli chawal", "Parboiled rice", "Idly rice", "Mota chawal", "Idli raice"]
+          },
+          {
+            "original": "Tata Sampann Unpolished Toor Dal",
+            "variations": ["Toor dal", "Arhar dal", "Tata dal", "Tur dal", "Yellow dal"]
+          },
+          {
+            "original": "Tata Sampann Moong Dal",
+            "variations": ["Yellow moong", "Dhuli moong", "Mung dal", "Tata moong", "Moong dhal"]
+          },
+          {
+            "original": "Tata Sampann Chana Dal",
+            "variations": ["Chana dhal", "Gram dal", "Bengal gram", "Channa dal", "Tata chana"]
+          },
+          {
+            "original": "Urad Gota (Whole White)",
+            "variations": ["Urad dal white", "Idli dal", "Urad whole", "Safed urad", "Ulundhu"]
+          },
+          {
+            "original": "Kabuli Chana",
+            "variations": ["Chole", "White chana", "Kabuli channa", "Bada chana", "Chola"]
+          },
+          {
+            "original": "Rajma Chitra",
+            "variations": ["Rajma", "Kidney beans", "Chitra rajma", "Razma", "Rajama"]
+          },
+          {
+            "original": "Green Moong Dal",
+            "variations": ["Sabut moong", "Green gram", "Whole moong", "Hari moong", "Green mung"]
+          },
+          {
+            "original": "Sugar (Loose)",
+            "variations": ["Chini", "Shakkar", "Sugar 1kg", "Cheeni", "Suger"]
+          },
+          {
+            "original": "Jaggery Cubes (Gud)",
+            "variations": ["Gud", "Gur", "Jaggery block", "Bella", "Vellam"]
+          },
+          {
+            "original": "Maggi 2-Minute Masala Noodles",
+            "variations": ["Magi", "Maggie noodles", "2 min noodles", "Meggi", "Maida noodles"]
+          },
+          {
+            "original": "Maggi Atta Noodles",
+            "variations": ["Atta maggi", "Wheat noodles", "Healthy maggi", "Aata maggi", "Veg atta maggi"]
+          },
+          {
+            "original": "Sunfeast YiPPee! Magic Masala",
+            "variations": ["Yippee noodles", "Yipee", "Yippy", "Magic masala", "Yipee nodles"]
+          },
+          {
+            "original": "Top Ramen Curry Noodles",
+            "variations": ["Top ramen", "Curry noodles", "Ramen", "Curry maggi", "Top raman"]
+          },
+          {
+            "original": "Chings Secret Schezwan Noodles",
+            "variations": ["Chings noodles", "Schezwan maggi", "Chinese noodles", "Chings secret", "Schezwan noddles"]
+          },
+          {
+            "original": "Knorr Tomato Soup",
+            "variations": ["Tomato soup", "Knorr soup", "Tamatar soup", "Instant soup", "Knor soup"]
+          },
+          {
+            "original": "Knorr Hot & Sour Vegetable Soup",
+            "variations": ["Hot and sour", "Veg soup", "Knorr hot sour", "Chinese soup", "Knorr veg soup"]
+          },
+          {
+            "original": "Kellogg's Corn Flakes Original",
+            "variations": ["Cornflakes", "Kellogs", "Kelogs corn flakes", "Breakfast flakes", "Corn flex"]
+          },
+          {
+            "original": "Kellogg's Chocos",
+            "variations": ["Chocos", "Kellogs chocos", "Chocolate cereal", "Choco flakes", "Kids cereal"]
+          },
+          {
+            "original": "Quaker Oats",
+            "variations": ["Oats", "Quacker oats", "Ots", "Plain oats", "Quaker otas"]
+          },
+          {
+            "original": "Saffola Masala Oats",
+            "variations": ["Masala oats", "Safola oats", "Spicy oats", "Veggie oats", "Saffola masala"]
+          },
+          {
+            "original": "Yoga Bar Muesli",
+            "variations": ["Muesli", "Yogabar", "Musli", "Breakfast muesli", "Yoga bar cereal"]
+          },
+          {
+            "original": "Pintola Peanut Butter Crunchy",
+            "variations": ["Peanut butter", "Pintola", "Crunchy butter", "Mungfali butter", "Penut butter"]
+          },
+          {
+            "original": "Kissan Fresh Tomato Ketchup",
+            "variations": ["Kissan ketchup", "Tomato sauce", "Kisan jam", "Ketchup bottle", "Kisan sauce"]
+          },
+          {
+            "original": "Maggi Hot & Sweet Tomato Chilli Sauce",
+            "variations": ["Hot and sweet", "Maggi sauce", "Chilli sauce", "Tomato chilli", "Magi sauce"]
+          },
+          {
+            "original": "Chings Dark Soy Sauce",
+            "variations": ["Soya sauce", "Soy sause", "Chings sauce", "Dark soy", "Chinese sauce"]
+          },
+          {
+            "original": "Schezwan Chutney",
+            "variations": ["Schezwan sauce", "Chings chutney", "Red chutney", "Sezwan", "Schezwan dip"]
+          },
+          {
+            "original": "Kissan Mixed Fruit Jam",
+            "variations": ["Kissan jam", "Mixed fruit", "Bread jam", "Kisan jam", "Mix fruit jam"]
+          },
+          {
+            "original": "Parle-G Gold Biscuits",
+            "variations": ["Parle g", "Parleg", "Glucose biscuit", "Parle ji", "Tea biscuit"]
+          },
+          {
+            "original": "Britannia Good Day Cashew",
+            "variations": ["Good day", "Kaju biscuit", "Goodday cashew", "Good day kaju", "Gud day"]
+          },
+          {
+            "original": "Britannia Good Day Butter",
+            "variations": ["Butter biscuit", "Good day butter", "Goodday", "Butter cookies", "Gudday butter"]
+          },
+          {
+            "original": "Britannia Marie Gold",
+            "variations": ["Marie biscuit", "Mari gold", "Tea time biscuit", "Marie gold", "Mari biscuit"]
+          },
+          {
+            "original": "Britannia NutriChoice Digestive",
+            "variations": ["Nutrichoice", "Digestive biscuit", "Sugar free biscuit", "Nutri choice", "Wheat biscuit"]
+          },
+          {
+            "original": "Britannia Little Hearts",
+            "variations": ["Little hearts", "Heart biscuit", "Sugar biscuit", "Littel hearts", "Little heart"]
+          },
+          {
+            "original": "Sunfeast Dark Fantasy Choco Fills",
+            "variations": ["Dark fantasy", "Choco fills", "Chocolate biscuit", "Dark fantacy", "Lava biscuit"]
+          },
+          {
+            "original": "Oreo Vanilla Creme Biscuits",
+            "variations": ["Oreo", "Oreo biscuit", "Cream biscuit", "Orio", "Vanilla oreo"]
+          },
+          {
+            "original": "Hide & Seek Chocolate Chip Cookies",
+            "variations": ["Hide and seek", "Choco chip", "Hide n seek", "Chocolate cookies", "Hyd and seek"]
+          },
+          {
+            "original": "Monaco Salted Biscuits",
+            "variations": ["Monaco", "Namkeen biscuit", "Salt biscuit", "Monacco", "Manaco"]
+          },
+          {
+            "original": "Unibic Assorted Cookies",
+            "variations": ["Unibic cookies", "Cookie box", "Assorted biscuits", "Unibic biscuit", "Gift cookies"]
+          },
+          {
+            "original": "Karachi Bakery Fruit Biscuits",
+            "variations": ["Karachi biscuit", "Fruit biscuit", "Tutti frutti", "Karachi bakery", "Hydrabadi biscuit"]
+          },
+          {
+            "original": "Lays India's Magic Masala",
+            "variations": ["Blue lays", "Magic masala", "Lays blue", "Masala chips", "Leys masala"]
+          },
+          {
+            "original": "Lays American Style Cream & Onion",
+            "variations": ["Green lays", "Cream onion", "Onion chips", "Lays green", "Cream and onion"]
+          },
+          {
+            "original": "Lays Classic Salted",
+            "variations": ["Yellow lays", "Salted chips", "Salt chips", "Lays yellow", "Plain chips"]
+          },
+          {
+            "original": "Kurkure Masala Munch",
+            "variations": ["Kurkure", "Tedhe medhe", "Masala munch", "Kurkure orange", "Kurkuri"]
+          },
+          {
+            "original": "Kurkure Solid Masti",
+            "variations": ["Solid masti", "Kurkure twist", "Masti kurkure", "Short kurkure", "Solid masthi"]
+          },
+          {
+            "original": "Bingo! Mad Angles Achaari Masti",
+            "variations": ["Mad angles", "Bingo chips", "Achari masti", "Triangle chips", "Bingo madangles"]
+          },
+          {
+            "original": "Doritos Nacho Cheese",
+            "variations": ["Doritos", "Nacho chips", "Cheese nachos", "Dorito red", "Tortilla chips"]
+          },
+          {
+            "original": "Pringles Sour Cream & Onion",
+            "variations": ["Pringles", "Green pringles", "Potato chips", "Pringal", "Sour cream onion"]
+          },
+          {
+            "original": "Haldiram's Aloo Bhujia",
+            "variations": ["Aloo bhujia", "Haldiram bhujia", "Alu bhujia", "Red packet namkeen", "Aloo bujia"]
+          },
+          {
+            "original": "Haldiram's Bhujia Sev",
+            "variations": ["Bhujia sev", "Bikano sev", "Besan sev", "Namkeen sev", "Bhujiya"]
+          },
+          {
+            "original": "Haldiram's Khatta Meetha",
+            "variations": ["Khatta meetha", "Mixture namkeen", "Sweet namkeen", "Khatameetha", "Haldiram mixture"]
+          },
+          {
+            "original": "Haldiram's Moong Dal",
+            "variations": ["Moong dal namkeen", "Fried moong", "Yellow dal namkeen", "Haldiram moong", "Mung dal fry"]
+          },
+          {
+            "original": "Haldiram's Soan Papdi",
+            "variations": ["Soan papdi", "Son papdi", "Sone papdi", "Diwali sweet", "Soan papri"]
+          },
+          {
+            "original": "Bikano Bikaneri Bhujia",
+            "variations": ["Bikaneri bhujia", "Bikano namkeen", "Bikano bhujia", "Bhujia packet", "Bikaneri sev"]
+          },
+          {
+            "original": "Tata Tea Gold",
+            "variations": ["Tata tea", "Gold tea", "Chai patti", "Tata gold", "Tea powder"]
+          },
+          {
+            "original": "Tata Tea Premium",
+            "variations": ["Tata premium", "Chai pati", "Badi patti", "Premium tea", "Tata tea premum"]
+          },
+          {
+            "original": "Red Label Tea",
+            "variations": ["Red label", "Brooke bond", "Lal tea", "Red lable", "Tea dust"]
+          },
+          {
+            "original": "Taj Mahal Tea",
+            "variations": ["Taj mahal", "Taj tea", "Wah taj", "Premium chai", "Tajmahal tea"]
+          },
+          {
+            "original": "Wagh Bakri Premium Leaf Tea",
+            "variations": ["Wagh bakri", "Bakri chai", "Waghbakri", "Gujarati chai", "Wagh bakri tea"]
+          },
+          {
+            "original": "Organic India Tulsi Green Tea",
+            "variations": ["Green tea", "Tulsi tea", "Organic tea", "Diet tea", "Tulsi green"]
+          },
+          {
+            "original": "Nescafe Classic Instant Coffee",
+            "variations": ["Nescafe", "Coffee powder", "Instant coffee", "Nes cafe", "Black coffee"]
+          },
+          {
+            "original": "Bru Instant Coffee",
+            "variations": ["Bru coffee", "Bru gold", "Coffee packet", "Bru sachet", "Baru coffee"]
+          },
+          {
+            "original": "Davidoff Rich Aroma Coffee",
+            "variations": ["Davidoff", "Rich aroma", "Premium coffee", "David off", "Imported coffee"]
+          },
+          {
+            "original": "Coca-Cola",
+            "variations": ["Coke", "Coco cola", "Cold drink", "Coca cola bottle", "Coka cola"]
+          },
+          {
+            "original": "Thums Up",
+            "variations": ["Thumbs up", "Thumsup", "Cola", "Thunder", "Thumbsup"]
+          },
+          {
+            "original": "Pepsi",
+            "variations": ["Pepsi cola", "Pepsi bottle", "Coldrink", "Pepsi blue", "Pepsie"]
+          },
+          {
+            "original": "Sprite",
+            "variations": ["Sprte", "Lime soda", "Clear drink", "Spright", "Sprite bottle"]
+          },
+          {
+            "original": "7 Up",
+            "variations": ["7up", "Seven up", "Lemon drink", "7 up bottle", "Sever up"]
+          },
+          {
+            "original": "Fanta Orange",
+            "variations": ["Fanta", "Orange drink", "Orange soda", "Mirinda", "Fanta bottle"]
+          },
+          {
+            "original": "Maaza Mango Drink",
+            "variations": ["Maza", "Mango juice", "Maaza bottle", "Maza drink", "Mango drink"]
+          },
+          {
+            "original": "Slice Mango Drink",
+            "variations": ["Slice", "Katrina mango", "Mango slice", "Slise", "Mango juice"]
+          },
+          {
+            "original": "Frooti",
+            "variations": ["Frooty", "Mango frooti", "Fruti", "Tetra pack juice", "Fruity"]
+          },
+          {
+            "original": "Paper Boat Aamras",
+            "variations": ["Paper boat", "Aamras", "Paperboat juice", "Mango drink", "Aam ras"]
+          },
+          {
+            "original": "Real Fruit Power Mixed Fruit",
+            "variations": ["Real juice", "Mix fruit juice", "Real mix", "Fruit juice", "Reel juice"]
+          },
+          {
+            "original": "Tropicana 100% Orange Juice",
+            "variations": ["Tropicana", "Orange juice", "Real orange", "Tropikana", "Breakfast juice"]
+          },
+          {
+            "original": "Bournvita Health Drink",
+            "variations": ["Bornvita", "Bourn vita", "Chocolate drink", "Bonvita", "Health powder"]
+          },
+          {
+            "original": "Horlicks Classic Malt",
+            "variations": ["Horlicks", "Malt drink", "Horliks", "Milk powder", "Horlicks bottle"]
+          },
+          {
+            "original": "Complan Royale Chocolate",
+            "variations": ["Complan", "Chocolate complan", "Kids drink", "Complan powder", "Complann"]
+          },
+          {
+            "original": "Bisleri Vedica Natural Mineral Water",
+            "variations": ["Vedica", "Himalayan water", "Mineral water", "Bisleri vedica", "Premium water"]
+          },
+          {
+            "original": "Kinley Soda",
+            "variations": ["Soda water", "Club soda", "Kinley water", "Kinly soda", "Plain soda"]
+          },
+          {
+            "original": "Cadbury Dairy Milk Silk",
+            "variations": ["Silk chocolate", "Dairy milk", "Cadbury silk", "Dairymilk", "Slik"]
+          },
+          {
+            "original": "Cadbury Dairy Milk Fruit & Nut",
+            "variations": ["Fruit and nut", "Dry fruit chocolate", "Fruit n nut", "Cadbury fruit", "Dairy milk fruit"]
+          },
+          {
+            "original": "Cadbury Fuse",
+            "variations": ["Fuse chocolate", "Cadbury bar", "Fuze", "Peanut chocolate", "Fuse bar"]
+          },
+          {
+            "original": "Cadbury 5 Star",
+            "variations": ["5 star", "Five star", "Caramel chocolate", "5star", "Cadbury 5star"]
+          },
+          {
+            "original": "Cadbury Gems",
+            "variations": ["Gems packet", "Cadbury gems", "Button chocolate", "Jems", "Gems ball"]
+          },
+          {
+            "original": "KitKat Finger",
+            "variations": ["Kit kat", "Wafer chocolate", "Kitkat bar", "Kitkat 4 finger", "Kit cat"]
+          },
+          {
+            "original": "Munch Wafer",
+            "variations": ["Munch chocolate", "Crunchy chocolate", "Manch", "Wafer bar", "Nestle munch"]
+          },
+          {
+            "original": "Snickers Peanut Chocolate",
+            "variations": ["Snikers", "Peanut bar", "Hunger bar", "Snicker", "Chocolate bar"]
+          },
+          {
+            "original": "Ferrero Rocher",
+            "variations": ["Ferero rocher", "Gold chocolate", "Ferrero", "Gift chocolate", "Ferro rocher"]
+          },
+          {
+            "original": "Hershey's Chocolate Syrup",
+            "variations": ["Chocolate syrup", "Hersheys", "Choco syrup", "Hershey sauce", "Cake topping"]
+          },
+          {
+            "original": "Kwality Wall's Vanilla Ice Cream",
+            "variations": ["Vanilla icecream", "Kwality walls", "Family pack ice cream", "Vanila ice cream", "Brick ice cream"]
+          },
+          {
+            "original": "Amul Frostik Ice Cream",
+            "variations": ["Amul stick", "Chocobar", "Frostik", "Ice cream stick", "Amul candy"]
+          },
+          {
+            "original": "Everest Garam Masala",
+            "variations": ["Garam masala", "Everest masala", "Hot spice", "Garam masla", "Khada masala"]
+          },
+          {
+            "original": "Everest Chicken Masala",
+            "variations": ["Chicken masala", "Murga masala", "Chicken curry powder", "Everest chiken", "Non veg masala"]
+          },
+          {
+            "original": "Everest Meat Masala",
+            "variations": ["Mutton masala", "Meat masala", "Gosht masala", "Meat powder", "Everest meat"]
+          },
+          {
+            "original": "Everest Chaat Masala",
+            "variations": ["Chat masala", "Fruit masala", "Everest chat", "Chaat powder", "Salad masala"]
+          },
+          {
+            "original": "Everest Tikhalal Chilli Powder",
+            "variations": ["Lal mirch", "Chilli powder", "Tikhalal", "Red chilli", "Mirchi powder"]
+          },
+          {
+            "original": "Everest Turmeric Powder",
+            "variations": ["Haldi powder", "Turmeric", "Haldi", "Everest haldi", "Yellow powder"]
+          },
+          {
+            "original": "MDH Kitchen King Masala",
+            "variations": ["Kitchen king", "Sabji masala", "Mdh masala", "Kitchan king", "Veg masala"]
+          },
+          {
+            "original": "MDH Chana Masala",
+            "variations": ["Chole masala", "Chana masala", "Channa masala", "Mdh chana", "Chola masala"]
+          },
+          {
+            "original": "MDH Sambar Masala",
+            "variations": ["Sambhar masala", "Sambar powder", "Mdh sambar", "Sambhar powder", "South indian masala"]
+          },
+          {
+            "original": "Catch Table Salt Sprinkler",
+            "variations": ["Catch salt", "Table salt", "Salt shaker", "Catch sprinkler", "Namak dani"]
+          },
+          {
+            "original": "Catch Black Pepper Sprinkler",
+            "variations": ["Kali mirch", "Black pepper", "Pepper spray", "Kali mirchi", "Pepper powder"]
+          },
+          {
+            "original": "MTR Sambar Powder",
+            "variations": ["Mtr sambar", "Sambhar powder", "Mtr masala", "Sambar mix", "Mtr sambhar"]
+          },
+          {
+            "original": "MTR Rasam Powder",
+            "variations": ["Rasam powder", "Rasam masala", "Mtr rasam", "Tomato rasam powder", "Rassam powder"]
+          },
+          {
+            "original": "MTR Puliogare Paste",
+            "variations": ["Puliogare", "Tamarind rice paste", "Puliyogare", "Puliogare mix", "Mtr rice mix"]
+          },
+          {
+            "original": "Badshah Pav Bhaji Masala",
+            "variations": ["Pav bhaji masala", "Badshah masala", "Paav bhaji", "Bhaji masala", "Pavbhaji"]
+          },
+          {
+            "original": "Dettol Original Soap",
+            "variations": ["Detol soap", "Hand wash soap", "Antiseptic soap", "Dettol sabun", "Detol bar"]
+          },
+          {
+            "original": "Lifebuoy Total 10 Soap",
+            "variations": ["Lifeboy", "Lifebuoy soap", "Red soap", "Lifebouy", "Bath soap"]
+          },
+          {
+            "original": "Dove Cream Beauty Bar",
+            "variations": ["Dove soap", "Moisturizing soap", "Dove bar", "White soap", "Dove sabun"]
+          },
+          {
+            "original": "Pears Pure & Gentle Soap",
+            "variations": ["Pears soap", "Transparent soap", "Orange soap", "Pear soap", "Glycerine soap"]
+          },
+          {
+            "original": "Cinthol Original Soap",
+            "variations": ["Cinthol soap", "Green soap", "Godrej cinthol", "Cinthol lime", "Cinthol sabun"]
+          },
+          {
+            "original": "Santoor Sandal & Turmeric",
+            "variations": ["Santoor soap", "Sandal soap", "Orange santoor", "Santur soap", "Turmeric soap"]
+          },
+          {
+            "original": "Lux International Creamy Perfection",
+            "variations": ["Lux soap", "White lux", "Body wash soap", "Lakx soap", "Lux bar"]
+          },
+          {
+            "original": "Fiama Di Wills Gel Bar",
+            "variations": ["Fiama soap", "Gel soap", "Fiama di wills", "Fiama gel", "Faama soap"]
+          },
+          {
+            "original": "Colgate Strong Teeth Toothpaste",
+            "variations": ["Colgate", "Toothpaste", "White colgate", "Colget", "Colgate paste"]
+          },
+          {
+            "original": "Colgate MaxFresh Red Gel",
+            "variations": ["Maxfresh", "Red colgate", "Gel toothpaste", "Max fresh", "Cool toothpaste"]
+          },
+          {
+            "original": "Pepsodent Germicheck",
+            "variations": ["Pepsodent", "Pepsodent paste", "Germi check", "Tooth paste", "Pepsodant"]
+          },
+          {
+            "original": "Sensodyne Repair & Protect",
+            "variations": ["Sensodyne", "Sensitive toothpaste", "Sensodine", "Tooth pain paste", "Sensodyne repair"]
+          },
+          {
+            "original": "Dabur Red Paste",
+            "variations": ["Red paste", "Dabur red", "Ayurvedic paste", "Lal dant manjan", "Dabur toothpaste"]
+          },
+          {
+            "original": "Close Up Ever Fresh Red",
+            "variations": ["Closeup", "Red paste", "Close up", "Gel paste", "Close up toothpaste"]
+          },
+          {
+            "original": "Listerine Mouthwash",
+            "variations": ["Mouth wash", "Listerine", "Listerin", "Mouthwash liquid", "Mint wash"]
+          },
+          {
+            "original": "Clinic Plus Strong & Long Shampoo",
+            "variations": ["Clinic plus", "Blue shampoo", "Clinic all clear", "Clinic+", "Shampoo sachet"]
+          },
+          {
+            "original": "Head & Shoulders Cool Menthol",
+            "variations": ["Head and shoulders", "H&s shampoo", "Anti dandruff", "Cool menthol", "Head n shoulder"]
+          },
+          {
+            "original": "Dove Intense Repair Shampoo",
+            "variations": ["Dove shampoo", "Hair fall shampoo", "White shampoo", "Conditioner shampoo", "Dove hair"]
+          },
+          {
+            "original": "Tressemme Keratin Smooth Shampoo",
+            "variations": ["Tresemme", "Keratin shampoo", "Red tresemme", "Salon shampoo", "Tresame"]
+          },
+          {
+            "original": "Pantene Hair Fall Control",
+            "variations": ["Pantene", "Hairfall shampoo", "Panteen", "Pantene shampoo", "Hair fall control"]
+          },
+          {
+            "original": "Indulekha Bringha Oil",
+            "variations": ["Indulekha oil", "Hair oil", "Ayurvedic oil", "Indulekha selfie", "Induleka"]
+          },
+          {
+            "original": "Parachute Coconut Oil",
+            "variations": ["Coconut oil", "Parachute oil", "Nariyal tel", "Blue bottle oil", "Parachut"]
+          },
+          {
+            "original": "Nivea Men Dark Spot Reduction Face Wash",
+            "variations": ["Nivea face wash", "Mens face wash", "Dark spot face wash", "Nivea men", "Face wash for men"]
+          },
+          {
+            "original": "Himalaya Purifying Neem Face Wash",
+            "variations": ["Himalaya face wash", "Neem face wash", "Pimple face wash", "Himalaya neem", "Green face wash"]
+          },
+          {
+            "original": "Garnier Men Acno Fight",
+            "variations": ["Garnier face wash", "Acno fight", "Pimple clear", "Garnier men", "Mens facewash"]
+          },
+          {
+            "original": "Ponds White Beauty Cream",
+            "variations": ["Ponds cream", "White beauty", "Face cream", "Ponds white", "Fairness cream"]
+          },
+          {
+            "original": "Fair & Lovely (Glow & Lovely)",
+            "variations": ["Fair and lovely", "Glow and lovely", "Fair lovely", "Fairness cream", "Fair n lovely"]
+          },
+          {
+            "original": "Whisper Ultra Clean",
+            "variations": ["Whisper pads", "Sanitary pads", "Ultra wings", "Whisper green", "Period pads"]
+          },
+          {
+            "original": "Stayfree Secure Cottony Soft",
+            "variations": ["Stayfree", "Cotton pads", "Stay free", "Pads for women", "Stayfree secure"]
+          },
+          {
+            "original": "Surf Excel Easy Wash Powder",
+            "variations": ["Surf excel", "Washing powder", "Surf blue", "Detergent powder", "Sarf excel"]
+          },
+          {
+            "original": "Surf Excel Matic Front Load Liquid",
+            "variations": ["Surf liquid", "Matic liquid", "Front load liquid", "Surf excel liquid", "Washing machine liquid"]
+          },
+          {
+            "original": "Ariel Matic Top Load Powder",
+            "variations": ["Ariel powder", "Ariel matic", "Top load powder", "Washing powder", "Arial surf"]
+          },
+          {
+            "original": "Tide Plus Jasmine & Rose",
+            "variations": ["Tide surf", "Tide powder", "White tide", "Detergent", "Tide plus"]
+          },
+          {
+            "original": "Vim Dishwash Bar",
+            "variations": ["Vim bar", "Dish wash", "Bartan sabun", "Vim soap", "Dish bar"]
+          },
+          {
+            "original": "Vim Lemon Dishwash Gel",
+            "variations": ["Vim liquid", "Vim gel", "Dish wash liquid", "Lemon gel", "Vim bottle"]
+          },
+          {
+            "original": "Pril Lime Liquid",
+            "variations": ["Pril liquid", "Dishwashing liquid", "Prill", "Utensil cleaner", "Pril gel"]
+          },
+          {
+            "original": "Lizol Floor Cleaner Citrus",
+            "variations": ["Lizol", "Floor cleaner", "Lysol", "Yellow lizol", "Poccha liquid"]
+          },
+          {
+            "original": "Domex Fresh Guard Toilet Cleaner",
+            "variations": ["Domex", "Toilet cleaner", "Bleach", "Domex blue", "Toilet acid"]
+          },
+          {
+            "original": "Harpic Power Plus Toilet Cleaner",
+            "variations": ["Harpic", "Toilet cleaner", "Blue harpic", "Bathroom cleaner", "Harpik"]
+          },
+          {
+            "original": "Colin Glass Cleaner",
+            "variations": ["Colin", "Glass spray", "Mirror cleaner", "Blue spray", "Collin"]
+          },
+          {
+            "original": "Comfort After Wash Fabric Conditioner",
+            "variations": ["Comfort", "Blue comfort", "Fabric conditioner", "Cloth softner", "Comfort blue"]
+          },
+          {
+            "original": "Dettol Antiseptic Liquid",
+            "variations": ["Dettol liquid", "Antiseptic", "Detol", "First aid liquid", "Dettol brown"]
+          },
+          {
+            "original": "Savlon Antiseptic Liquid",
+            "variations": ["Savlon", "Orange liquid", "Savlon liquid", "Antiseptic", "Savaloon"]
+          },
+          {
+            "original": "Good Knight Gold Flash",
+            "variations": ["Good night", "Mosquito machine", "All out machine", "Goodknight", "Mosquito refill"]
+          },
+          {
+            "original": "All Out Ultra Refill",
+            "variations": ["Allout", "Mosquito oil", "Refill bottle", "All out refill", "Machar machine"]
+          },
+          {
+            "original": "Hit Cockroach Killer Spray",
+            "variations": ["Hit spray", "Cockroach hit", "Lal hit", "Red hit", "Insect killer"]
+          },
+          {
+            "original": "Odonil Room Freshener Block",
+            "variations": ["Odonil", "Bathroom smell", "Room freshener", "Toilet cake", "Odonil block"]
+          },
+          {
+            "original": "Duracell Ultra AA Batteries",
+            "variations": ["Duracell", "Aa battery", "Remote cell", "Pencil cell", "Duracel"]
+          },
+          {
+            "original": "Scotch Brite Scrub Pad",
+            "variations": ["Scotch brite", "Scrub pad", "Bartan scrub", "Green scrub", "Scotch bright"]
+          }
+        ]
+      }
+]
